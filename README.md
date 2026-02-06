@@ -3,9 +3,7 @@
 Saya seorang pengembang perangkat lunak yang gemar memecahkan masalah melalui kode. Saya senang mempelajari teknologi baru dan berbagi pengetahuan dengan komunitas.
 
 - 🔭 Saya sedang fokus pada: **Web Development & System Architecture**
-- 🌱 Saya sedang mendalami: **Cloud Computing & DevOps**
-- 💬 Tanya saya tentang: **PHP, Python, JavaScript, atau Java**
-- 📫 Hubungi saya di: **[Email Kamu Disini]**
+- 🌱 Saya sedang mendalami: **Cloud Computing**
 
 ---
 
